@@ -121,11 +121,7 @@ export default tempSlice.reducer;
 
 - `convertTemperature` is exported as an action creator.
 - The reducer function of the slice is exported as the default export, to be used in the Redux store.
-```
 
-Here's an explanation of the `store` setup code in Markdown format:
-
-```markdown
 ## Explanation of Redux Store Configuration
 
 This code sets up the Redux store using the `@reduxjs/toolkit` library and integrates the temperature conversion slice reducer into the store.
@@ -156,7 +152,7 @@ export const storetemp = configureStore({
     
 Here's a brief explanation of each snippet in the `TempConverter` component code:
 
-```markdown
+
 ## Explanation of `TempConverter` Component Code
 
 ### Import Statements
