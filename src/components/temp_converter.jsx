@@ -13,10 +13,7 @@ function TempConverter() {
   const handleConvert = () => {
     const tempValue = parseFloat(temperature);
     
-    if (isNaN(tempValue)) {
-      alert("Please enter a valid number");
-      return;
-    }
+  
     dispatch(convertTemperature({
       temperature: tempValue,
       fromUnit,
