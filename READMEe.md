@@ -307,12 +307,20 @@ ReactDOM.createRoot(document.getElementById('root')).render(
   </Provider>,
 )
 ```
- 
-![Temperature_Converter](images/1.png)
-![Temperature_Converter](images/2.png)
-![Temperature_Converter](images/3.png)
-![Temperature_Converter](images/4.png)
-![Temperature_Converter](images/5.png)
+<h3>Temperature Converter - Step 1</h3>
+<img src="images/1.png" alt="Temperature Converter - Step 1" width="400"/>
+
+<h3>Temperature Converter - Step 2</h3>
+<img src="images/2.png" alt="Temperature Converter - Step 2" width="400"/>
+
+<h3>Temperature Converter - Step 3</h3>
+<img src="images/3.png" alt="Temperature Converter - Step 3" width="400"/>
+
+<h3>Temperature Converter - Step 4</h3>
+<img src="images/4.png" alt="Temperature Converter - Step 4" width="400"/>
+
+<h3>Temperature Converter - Step 5</h3>
+<img src="images/5.png" alt="Temperature Converter - Step 5" width="400"/>
 
 
 
